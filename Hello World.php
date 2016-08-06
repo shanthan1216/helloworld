@@ -2,6 +2,6 @@
 
 
 
-echo "Hello World";
+echo "Hello Class 631";
 
 ?> 
